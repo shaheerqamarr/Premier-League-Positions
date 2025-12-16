@@ -1,0 +1,201 @@
+Season,Team,Position
+2015/2016,Leicester City,1
+2015/2016,Arsenal,2
+2015/2016,Tottenham Hotspur,3
+2015/2016,Manchester City,4
+2015/2016,Manchester United,5
+2015/2016,Southampton,6
+2015/2016,West Ham United,7
+2015/2016,Liverpool,8
+2015/2016,Stoke City,9
+2015/2016,Chelsea,10
+2015/2016,Everton,11
+2015/2016,Swansea City,12
+2015/2016,Watford,13
+2015/2016,West Bromwich Albion,14
+2015/2016,Crystal Palace,15
+2015/2016,AFC Bournemouth,16
+2015/2016,Sunderland,17
+2015/2016,Newcastle United,18
+2015/2016,Norwich City,19
+2015/2016,Aston Villa,20
+2016/2017,Chelsea,1
+2016/2017,Tottenham Hotspur,2
+2016/2017,Manchester City,3
+2016/2017,Liverpool,4
+2016/2017,Arsenal,5
+2016/2017,Manchester United,6
+2016/2017,Everton,7
+2016/2017,Southampton,8
+2016/2017,AFC Bournemouth,9
+2016/2017,West Bromwich Albion,10
+2016/2017,West Ham United,11
+2016/2017,Leicester City,12
+2016/2017,Stoke City,13
+2016/2017,Crystal Palace,14
+2016/2017,Swansea City,15
+2016/2017,Burnley,16
+2016/2017,Watford,17
+2016/2017,Hull City,18
+2016/2017,Middlesbrough,19
+2016/2017,Sunderland,20
+2017/2018,Manchester City,1
+2017/2018,Manchester United,2
+2017/2018,Tottenham Hotspur,3
+2017/2018,Liverpool,4
+2017/2018,Chelsea,5
+2017/2018,Arsenal,6
+2017/2018,Burnley,7
+2017/2018,Everton,8
+2017/2018,Leicester City,9
+2017/2018,Newcastle United,10
+2017/2018,Crystal Palace,11
+2017/2018,AFC Bournemouth,12
+2017/2018,West Ham United,13
+2017/2018,Watford,14
+2017/2018,Brighton & Hove Albion,15
+2017/2018,Huddersfield Town,16
+2017/2018,Southampton,17
+2017/2018,Swansea City,18
+2017/2018,Stoke City,19
+2017/2018,West Bromwich Albion,20
+2018/2019,Manchester City,1
+2018/2019,Liverpool,2
+2018/2019,Chelsea,3
+2018/2019,Tottenham Hotspur,4
+2018/2019,Arsenal,5
+2018/2019,Manchester United,6
+2018/2019,Wolverhampton Wanderers,7
+2018/2019,Everton,8
+2018/2019,Leicester City,9
+2018/2019,West Ham United,10
+2018/2019,Watford,11
+2018/2019,Crystal Palace,12
+2018/2019,Newcastle United,13
+2018/2019,AFC Bournemouth,14
+2018/2019,Burnley,15
+2018/2019,Southampton,16
+2018/2019,Brighton & Hove Albion,17
+2018/2019,Cardiff City,18
+2018/2019,Fulham,19
+2018/2019,Huddersfield Town,20
+2019/2020,Liverpool,1
+2019/2020,Manchester City,2
+2019/2020,Manchester United,3
+2019/2020,Chelsea,4
+2019/2020,Leicester City,5
+2019/2020,Tottenham Hotspur,6
+2019/2020,Wolverhampton Wanderers,7
+2019/2020,Arsenal,8
+2019/2020,Sheffield United,9
+2019/2020,Burnley,10
+2019/2020,Southampton,11
+2019/2020,Everton,12
+2019/2020,Newcastle United,13
+2019/2020,Crystal Palace,14
+2019/2020,Brighton & Hove Albion,15
+2019/2020,West Ham United,16
+2019/2020,Aston Villa,17
+2019/2020,AFC Bournemouth,18
+2019/2020,Watford,19
+2019/2020,Norwich City,20
+2020/2021,Manchester City,1
+2020/2021,Manchester United,2
+2020/2021,Liverpool,3
+2020/2021,Chelsea,4
+2020/2021,Leicester City,5
+2020/2021,West Ham United,6
+2020/2021,Tottenham Hotspur,7
+2020/2021,Arsenal,8
+2020/2021,Leeds United,9
+2020/2021,Everton,10
+2020/2021,Aston Villa,11
+2020/2021,Newcastle United,12
+2020/2021,Wolverhampton Wanderers,13
+2020/2021,Crystal Palace,14
+2020/2021,Southampton,15
+2020/2021,Brighton & Hove Albion,16
+2020/2021,Burnley,17
+2020/2021,Fulham,18
+2020/2021,West Bromwich Albion,19
+2020/2021,Sheffield United,20
+2021/2022,Manchester City,1
+2021/2022,Liverpool,2
+2021/2022,Chelsea,3
+2021/2022,Tottenham Hotspur,4
+2021/2022,Arsenal,5
+2021/2022,Manchester United,6
+2021/2022,West Ham United,7
+2021/2022,Leicester City,8
+2021/2022,Brighton & Hove Albion,9
+2021/2022,Wolverhampton Wanderers,10
+2021/2022,Newcastle United,11
+2021/2022,Crystal Palace,12
+2021/2022,Brentford,13
+2021/2022,Aston Villa,14
+2021/2022,Southampton,15
+2021/2022,Everton,16
+2021/2022,Leeds United,17
+2021/2022,Burnley,18
+2021/2022,Watford,19
+2021/2022,Norwich City,20
+2022/2023,Manchester City,1
+2022/2023,Arsenal,2
+2022/2023,Manchester United,3
+2022/2023,Newcastle United,4
+2022/2023,Liverpool,5
+2022/2023,Brighton & Hove Albion,6
+2022/2023,Aston Villa,7
+2022/2023,Tottenham Hotspur,8
+2022/2023,Brentford,9
+2022/2023,Fulham,10
+2022/2023,Crystal Palace,11
+2022/2023,Chelsea,12
+2022/2023,Wolverhampton Wanderers,13
+2022/2023,West Ham United,14
+2022/2023,AFC Bournemouth,15
+2022/2023,Nottingham Forest,16
+2022/2023,Everton,17
+2022/2023,Leicester City,18
+2022/2023,Leeds United,19
+2022/2023,Southampton,20
+2023/2024,Manchester City,1
+2023/2024,Arsenal,2
+2023/2024,Liverpool,3
+2023/2024,Aston Villa,4
+2023/2024,Tottenham Hotspur,5
+2023/2024,Chelsea,6
+2023/2024,Newcastle United,7
+2023/2024,Manchester United,8
+2023/2024,West Ham United,9
+2023/2024,Crystal Palace,10
+2023/2024,Brighton & Hove Albion,11
+2023/2024,AFC Bournemouth,12
+2023/2024,Fulham,13
+2023/2024,Wolverhampton Wanderers,14
+2023/2024,Everton,15
+2023/2024,Brentford,16
+2023/2024,Nottingham Forest,17
+2023/2024,Luton Town,18
+2023/2024,Burnley,19
+2023/2024,Sheffield United,20
+2024/2025,Liverpool,1
+2024/2025,Arsenal,2
+2024/2025,Manchester City,3
+2024/2025,Chelsea,4
+2024/2025,Newcastle United,5
+2024/2025,Aston Villa,6
+2024/2025,Nottingham Forest,7
+2024/2025,Brighton & Hove Albion,8
+2024/2025,AFC Bournemouth,9
+2024/2025,Brentford,10
+2024/2025,Fulham,11
+2024/2025,Crystal Palace,12
+2024/2025,Everton,13
+2024/2025,West Ham United,14
+2024/2025,Manchester United,15
+2024/2025,Wolverhampton Wanderers,16
+2024/2025,Tottenham Hotspur,17
+2024/2025,Leicester City,18
+2024/2025,Ipswich Town,19
+2024/2025,Southampton,20
