@@ -6,6 +6,8 @@ A Python web scraper that tracks Premier League team positions over multiple sea
 
 This project scrapes historical Premier League standings data from FotMob and creates an interactive line chart showing how the top 6 teams' positions have changed from the 2015/16 to 2024/25 seasons.
 
+<img width="1920" height="624" alt="image" src="https://github.com/user-attachments/assets/754fd8f5-4a67-4745-a9ed-b34ce3d35fc6" />
+
 ## Features
 
 - **Web Scraping**: Automatically extracts league table data from FotMob for multiple seasons
